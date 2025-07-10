@@ -38,8 +38,8 @@ Este projeto utiliza o sensor digital **AHT10** para medir **temperatura** e **u
 
 ### 🔹 Exibição no Display OLED
 - O display mostra:
-  - Temperatura atual (`Temp: 22.45 C`)
-  - Umidade atual (`Umi : 68.12 %`)
+  - Temperatura atual (`Temp: xx.xx C`)
+  - Umidade atual (`Umi : xx.xx %`)
 - Alertas exibidos:
   - `"Umidade Alta!"` se a umidade for maior que **70%**
   - `"Temp Baixa!"` se a temperatura for menor que **20 °C**
